@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_starlte.mk
+    $(LOCAL_DIR)/projectl_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
      projectl_starlte-userdebug \
