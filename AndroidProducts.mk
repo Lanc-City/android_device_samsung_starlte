@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/bliss_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
-     bliss_starlte-userdebug \
-     bliss_starlte-eng \
-     bliss_starlte-user
+     projectl_starlte-userdebug \
+     projectl_starlte-eng \
+     projectl_starlte-user
