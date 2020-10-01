@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/projectl_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
-     projectl_starlte-userdebug \
-     projectl_starlte-eng \
-     projectl_starlte-user
+     lineage_starlte-userdebug \
+     lineage_starlte-eng \
+     lineage_starlte-user
