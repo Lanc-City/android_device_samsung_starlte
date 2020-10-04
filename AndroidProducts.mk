@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_starlte.mk
+    $(LOCAL_DIR)/crdroid_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
      lineage_starlte-userdebug \
